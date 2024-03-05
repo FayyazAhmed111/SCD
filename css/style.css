@@ -184,6 +184,7 @@ body {
   -webkit-transition: all 0.3s ease;
   transition: all 0.3s ease;
   -moz-transition: all 0.3s ease;
+  border-radius: 20px;
 }
 
 .hero-section-wrapper .btn:hover {
@@ -523,6 +524,11 @@ body {
   text-transform: uppercase;
   margin: 3rem 0;
   letter-spacing: 1.5px;
+  background-color: #E04218;
+  border-radius: 20px;
+  height: 50px;
+  padding-top: 7px;
+  color: #FEB931;
 }
 
 /*# sourceMappingURL=style.css.map */
