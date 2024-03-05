@@ -219,6 +219,7 @@ body {
   margin: 4rem 2.5rem;
   text-align: center;
   justify-content: center;
+  height: 500px;
 }
 
 .menu-section-container .card:hover {
@@ -234,6 +235,10 @@ body {
 .menu-section-container .card .card-img-top img {
   width: 100%;
 }
+
+/* .menu-section-container .card .card-body{
+  margin-top: 40px;
+} */
 
 .menu-section-container .card .card-body .burger-heading {
   color: #E04218;
