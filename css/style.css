@@ -103,6 +103,7 @@ body {
   -webkit-transition: all 0.3s ease;
   transition: all 0.3s ease;
   -moz-transition: all 0.3s ease;
+  border-radius: 20px;
 }
 
 .header-wrap .contact-btn:hover {
